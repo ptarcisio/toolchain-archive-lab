@@ -6,7 +6,6 @@
 	"scripts": {
 		"gulp": "gulp",
 		"start": "node app.js",
-		"postinstall": "npm run gulp"
 	},
   "keywords": [
     "css",
