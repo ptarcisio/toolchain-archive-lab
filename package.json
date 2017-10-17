@@ -3,6 +3,11 @@
   "name": "startbootstrap-landing-page",
   "version": "4.0.0-beta",
   "description": "An HTML landing page template built with Bootstrap",
+	"scripts": {
+		"gulp": "gulp",
+		"start": "node app.js",
+		"postinstall": "npm run gulp"
+	},
   "keywords": [
     "css",
     "sass",
