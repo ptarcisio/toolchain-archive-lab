@@ -41,5 +41,8 @@
   "devDependencies": {
     "browser-sync": "2.18.13",
     "gulp": "^3.9.1"
-  }
+  },
+	"engines": {
+		"node": "0.12.x"
+	}
 }
